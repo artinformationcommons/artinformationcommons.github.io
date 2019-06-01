@@ -23,15 +23,7 @@ If you really enjoy Long Haul and want to give me credit somewhere on the intern
 ## Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
-<<<<<<< HEAD
-<<<<<<< HEAD
-2. Fork the [Art Information Commons repo](http://github.com/brianmaierjr/art-information-commons)
-=======
 2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
->>>>>>> parent of d643f52... replace all
-=======
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/art-information-commons)
->>>>>>> parent of 98567da... repalce all w/o hyphen
 3. Clone it
 4. [Install Bundler](http://bundler.io/)
 5. Run `bundle install`
