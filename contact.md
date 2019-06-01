@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Art Information Commons
+title: Contact Long Haul
 ---
 
 <div id="contact">
