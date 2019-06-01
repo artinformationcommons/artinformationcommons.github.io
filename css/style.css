@@ -801,7 +801,7 @@ HEADER STYLING
 ***************/
 .header {
   background-color: #4286f4;
-  background-image: url("../img/touring.jpg");
+  /*background-image: url("../img/touring.jpg");*/
   background-size: cover;
   background-position: center center;
   color: white;
