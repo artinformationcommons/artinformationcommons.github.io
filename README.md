@@ -4,7 +4,7 @@ Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOP
 
 If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
 
-#### [View Demo](http://brianmaierjr.com/long-haul)
+#### [View Demo](http://brianmaierjr.com/art-information-commons)
 
 ## Features
 
@@ -23,7 +23,7 @@ If you really enjoy Long Haul and want to give me credit somewhere on the intern
 ## Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+2. Fork the [Long Haul repo](http://github.com/brianmaierjr/art-information-commons)
 3. Clone it
 4. [Install Bundler](http://bundler.io/)
 5. Run `bundle install`
