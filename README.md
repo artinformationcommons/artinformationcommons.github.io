@@ -4,7 +4,7 @@ Art Information Commons is a minimal jekyll theme built with SASS / GULP / BROWS
 
 If you really enjoy Art Information Commons and want to give me credit somewhere on the internet send or tweet out your experience with Art Information Commons and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
 
-#### [View Demo](http://brianmaierjr.com/art-information-commons)
+#### [View Demo](http://brianmaierjr.com/long-haul)
 
 ## Features
 
@@ -23,7 +23,11 @@ If you really enjoy Art Information Commons and want to give me credit somewhere
 ## Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
+<<<<<<< HEAD
 2. Fork the [Art Information Commons repo](http://github.com/brianmaierjr/art-information-commons)
+=======
+2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
+>>>>>>> parent of d643f52... replace all
 3. Clone it
 4. [Install Bundler](http://bundler.io/)
 5. Run `bundle install`

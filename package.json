@@ -1,5 +1,5 @@
 {
-  "name": "art-information-commons",
+  "name": "long-haul",
   "version": "0.0.0",
   "description": "A minimal, type-focused Jekyll theme. ",
   "main": "gulpfile.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brianmaierjr/art-information-commons.git"
+    "url": "https://github.com/brianmaierjr/long-haul.git"
   },
   "keywords": [
     "jekyll",
