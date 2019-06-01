@@ -1,8 +1,8 @@
 title: Art Information Commons
 description: [add a blurb about art information commons and this page]
 
-url: https://philamuseum.github.io/long-haul/
-baseurl: ""
+url: https://philamuseum.github.io
+baseurl: "/long-haul"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
