@@ -704,7 +704,7 @@ img, video, audio, iframe, object {
 LINK STYLING
 ***************/
 a {
-  color: seagreen; }
+  color: #4286f4; }
   a:hover {
     color: #1b5233; }
 
@@ -722,7 +722,7 @@ MENU STYLING
     .nav-collapse ul li {
       width: 100%;
       display: block;
-      background: seagreen;
+      background: #4286f4;
       border-bottom: 2px solid #349e63; }
       .nav-collapse ul li a {
         color: white;
@@ -753,7 +753,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: seagreen;
+  background-color: #4286f4;
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -801,7 +801,7 @@ HEADER STYLING
 ***************/
 .header {
   background-color: #4286f4;
-  /*background-image: url("../img/touring.jpg");*/
+  background-image: url("../img/touring.jpg");
   background-size: cover;
   background-position: center center;
   color: white;
@@ -881,7 +881,7 @@ POST STYLING
   margin-bottom: 2rem; }
 
 .post .dropcap {
-  color: seagreen;
+  color: #4286f4;
   margin-right: .45rem; }
 
 .post .featuredImage {
