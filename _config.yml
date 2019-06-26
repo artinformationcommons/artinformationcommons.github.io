@@ -15,6 +15,8 @@ navigation:
     url: /
   - title: About
     url: /about
+  - title: Events
+    url: /events
   - title: Contact
     url: /contact
 
