@@ -3,7 +3,6 @@ layout: default
 title: Art Information Commons
 ---
 
-<div class="home" id="home">
 
 In 2018, Philadelphia Museum of Art received a three-year planning grant from the Andrew W. Mellon Foundation to support holistic management of collections-related data acros the museum. This grant has a broad focus on enhancing information management practices across professional disciplines. 
 
@@ -15,4 +14,3 @@ This grant will enhance the information management culture at Philadelphia Museu
 -Assessing information needs, with teh goal of understanding which areas for improving systems.
 -Developing a proof of concept for data integration, across collection management systems (TMS, ArchivesSpace, WorldCat/Aleph, Conservation Studio) and sharing resources as linked data. 
 
-</div>
