@@ -2,7 +2,6 @@ title: Art Information Commons
 description: [add a blurb about art information commons and this page]
 
 url: https://artinformationcommons.github.io
-baseurl: "/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -13,7 +12,7 @@ paginate: 5
 
 navigation:
   - title: Home
-    url: /index.html
+    url: /
   - title: About
     url: /about
   - title: Contact
