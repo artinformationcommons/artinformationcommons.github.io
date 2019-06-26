@@ -1,7 +1,7 @@
 title: Art Information Commons
 description: [add a blurb about art information commons and this page]
 
-url: https://philamuseum.github.io
+url: https://artinformationcommons.github.io
 baseurl: "/art-information-commons"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
