@@ -2,7 +2,7 @@ title: Art Information Commons
 description: [add a blurb about art information commons and this page]
 
 url: https://artinformationcommons.github.io
-baseurl: "/art-information-commons"
+baseurl: "/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
