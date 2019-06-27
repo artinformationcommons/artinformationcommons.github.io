@@ -12,7 +12,7 @@ paginate: 5
 
 navigation:
   - title: Home
-    url: 
+    url: /index
   - title: Updates and Events
     url: /updates-events
   - title: Resources
