@@ -4,7 +4,7 @@ title:  "Sharing Data Across Memory Institutions"
 date:   2019-07-09
 ---
 
-###Sharing Data Across Memory Institutions
+***Sharing Data Across Memory Institutions***
 Tuesday, July 9
 3:30–5:00 p.m.
 Perelman Building
