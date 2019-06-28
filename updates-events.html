@@ -3,7 +3,6 @@ layout: default
 title: Updates and Events
 ---
 
-<div class="home" id="home">
   <h1 class="pageTitle">Updates and Events</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
@@ -23,4 +22,3 @@ title: Updates and Events
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
     {% endif %}
   </div>
-</div>
