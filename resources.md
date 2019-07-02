@@ -2,6 +2,7 @@
 layout: default
 title: Resources
 ---
+<div class="post">  
   
 # Resources
 
@@ -11,3 +12,5 @@ title: Resources
 
 [another test link](mailto:karina.wratschko@philamuseum.org)
 
+
+</div>
