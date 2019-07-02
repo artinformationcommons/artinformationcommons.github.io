@@ -2,7 +2,8 @@
 layout: default
 title: Resources
 ---
-<div id="resources">
+<div>
+  
 # Resources
 
 // a place to share recommended websites and AIC generated goodies //
