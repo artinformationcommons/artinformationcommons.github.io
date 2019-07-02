@@ -8,6 +8,7 @@ title: Updates and Events
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
     </li>
   {% endfor %}
 </ul>
