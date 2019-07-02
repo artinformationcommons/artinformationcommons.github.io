@@ -7,6 +7,7 @@ title: Updates and Events
 <ul>
   {% for post in site.posts %}
     <li>
+      <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
     </li>
