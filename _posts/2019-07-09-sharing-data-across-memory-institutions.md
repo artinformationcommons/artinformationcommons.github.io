@@ -2,6 +2,7 @@
 layout: post
 title:  "Sharing Data Across Memory Institutions"
 date:   2019-07-09
+description: On Wednesday, July 9th, David Newbury will discuss his work at the intersection of data, technology, and the fine arts to find common solutions to technical and scholarly problems.
 ---
 
 ### Sharing Data Across Memory Institutions
