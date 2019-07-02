@@ -8,6 +8,7 @@ title: Updates and Events
   {% for post in site.posts %}
     <li>
       <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+      <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
     </li>
