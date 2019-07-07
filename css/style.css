@@ -801,7 +801,7 @@ HEADER STYLING
 ***************/
 .header {
   background-color: #4286f4;
- 
+
   background-size: cover;
   background-position: center center;
   color: white;
@@ -811,14 +811,15 @@ HEADER STYLING
     padding: 0;
     max-width: 100%; }
   .header h1 {
-    margin: 0;
+    margin: 0.67rem 0 0 0;
     float: left;
     padding-left: 2rem;
-    font-size: 1em;
-    line-height: 3em;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1rem;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
     font-weight: 800;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    width: 67%;  }
     .header h1 a {
       color: white;
       text-decoration: none; }
