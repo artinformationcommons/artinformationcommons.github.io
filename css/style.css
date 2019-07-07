@@ -1066,7 +1066,9 @@ HEADER STYLING
       font-size: 3em;
       line-height: 1;
       letter-spacing: -3px;
-      padding-left: 0; }
+      margin: 0;
+      padding-left: 0;
+      width: auto; }
     .header nav {
       float: left;
       clear: left; }
