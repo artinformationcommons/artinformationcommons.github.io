@@ -1126,10 +1126,6 @@ POST STYLING
       transform: skewY(-2deg);
       -webkit-transform-origin: bottom left;
       transform-origin: bottom left; }
-   /*************** KW ADDED IFRAME STYLING *****/
-   .freebirdFormviewerViewEmbedded {
-      position:relative;
-      margin-top:2rem;  } 
   /***************
 POST NAV STYLING
 ***************/
