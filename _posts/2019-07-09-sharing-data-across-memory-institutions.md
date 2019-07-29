@@ -13,4 +13,4 @@ Perelman Building
  
 David Newbury, Enterprise Software and Data Architect at the J. Paul Getty Trust, who will discussed his work at the intersection of data, technology, and the fine arts to find common solutions to technical and scholarly problems.
 
-If you missed it, you may view the recording of Sharing Data Across Memory Institutions here.
+If you missed it, you may view the recording of Sharing Data Across Memory Institutions <a href="https://drive.google.com/file/d/1GpuHBxE-Wl2cy4DnJzNKfbqVXnA1-HtT/view?usp=sharing">here</a>.
