@@ -15,8 +15,11 @@ navigation:
     url: /index
   - title: Updates and Events
     url: /updates-events
+  - title: Activities
+    url: /activities
   - title: Resources
     url: /resources
+  
 
 social:
   github: --
