@@ -13,14 +13,15 @@ paginate: 5
 navigation:
   - title: Home
     url: /index
-  - title: Updates and Events
-    url: /updates-events
-  - title: Activities
-    url: /activities
-  - title: Resources
-    url: /resources
   - title: Who We Are
     url: /who-we-are
+  - title: Activities
+    url: /activities
+  - title: Updates and Events
+    url: /updates-events
+  - title: Resources
+    url: /resources
+  
   
 
 social:
