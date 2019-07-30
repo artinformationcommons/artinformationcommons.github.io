@@ -19,6 +19,8 @@ navigation:
     url: /activities
   - title: Resources
     url: /resources
+  - title: Who We Are
+    url: /who-we-are
   
 
 social:
