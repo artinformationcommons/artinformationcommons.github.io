@@ -7,7 +7,6 @@
  *    IE on Windows Phone and in iOS.
  */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,800);
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic);
 html {
   line-height: 1.15;
   /* 1 */
@@ -122,7 +121,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  font-family: Avenir;
   /* 1 */
   font-size: 1em;
   /* 2 */ }
@@ -492,7 +491,7 @@ BUTTON DEFAULTS
   background-color: #4286f4;
   display: inline-block;
   position: relative;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Avenir, sans-serif;
   text-decoration: none;
   color: #fff;
   font-size: 1em;
@@ -676,7 +675,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  font-family: "PT Serif", Georgia, Times, serif;
+  font-family: "Sans Serif", Avenir;
   line-height: 1.75;
   font-size: 112.5%;
   color: #111;
@@ -816,7 +815,7 @@ HEADER STYLING
     padding-left: 2rem;
     font-size: 1rem;
     line-height: 1rem;
-    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans", Avenir,sans-serif;
     font-weight: 800;
     text-transform: uppercase;
     width: 67%;  }
@@ -860,7 +859,7 @@ POST STYLING
 .post .meta {
   text-align: center;
   color: gray;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Avenir, sans-serif;
   font-weight: 300; }
 
 .post figure {
@@ -904,7 +903,7 @@ POST NAV STYLING
     height: 5rem;
     overflow: hidden;
     position: relative;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", Avenir, sans-serif;
     font-weight: 800;
     font-size: .9em;
     text-transform: uppercase;
@@ -1006,7 +1005,7 @@ POST LIST STYLING
       text-decoration: underline; }
   .posts li .date {
     color: gray;
-    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", Avenir, sans-serif;
     font-weight: 300;
     font-size: .8em; }
   .posts li h3 {
