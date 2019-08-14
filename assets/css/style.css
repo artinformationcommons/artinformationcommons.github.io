@@ -523,10 +523,10 @@ BUTTON DEFAULTS
 
 .button__outline {
   background-color: transparent;
-  border: 3px solid seagreen;
-  color: seagreen; }
+  border: 3px solid black;
+  color: black; }
   .button__outline:hover {
-    background-color: seagreen;
+    background-color: black;
     color: #fff; }
 
 /***************
@@ -704,9 +704,9 @@ img, video, audio, iframe, object {
 LINK STYLING
 ***************/
 a {
-  color: black; }
+  color: #e83a17; }
   a:hover {
-    color: #1b5233; }
+    color: #c42e10; }
 
 /***************
 MENU STYLING
@@ -722,8 +722,8 @@ MENU STYLING
     .nav-collapse ul li {
       width: 100%;
       display: block;
-      background: black;
-      border-bottom: 2px solid #349e63; }
+      background: #e83a17;
+      border-bottom: 2px solid #e83a17; }
       .nav-collapse ul li a {
         color: white;
         text-decoration: none;
@@ -753,7 +753,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: black;
+  background-color: #e83a17;
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -763,7 +763,7 @@ MENU STYLING
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
-    background-color: black; }
+    background-color: #e83a17; }
 
 /***************
 LIST STYLING
@@ -800,7 +800,7 @@ PAGE STYLES
 HEADER STYLING
 ***************/
 .header {
-  background-color:black;
+  background-color:#e83a17;
   background-size: cover;
   background-position: center center;
   color: white;
@@ -840,7 +840,7 @@ POST STYLING
     content: "";
     position: absolute;
     top: -1.25em;
-    background: black;
+    background: #e83a17;
     display: block;
     height: 2px;
     width: 150px;
@@ -849,7 +849,7 @@ POST STYLING
     content: "";
     position: absolute;
     bottom: -1.25em;
-    background: black;
+    background: #e83a17;
     display: block;
     height: 2px;
     width: 150px;
@@ -973,7 +973,7 @@ FOOTER STYLING
           .footer-links ul li a svg .inner-shape {
             fill: white; }
       .footer-links ul li:hover a svg .outer-shape {
-        fill: black; }
+        fill: #e83a17; }
 
 /***************
 PAGINATION STYLING
@@ -995,7 +995,7 @@ POST LIST STYLING
     position: absolute;
     bottom: -2rem;
     left: 0;
-    background: #e6e6e6;
+    background: #e83a17;
     height: 2px;
     width: 60px; }
   .posts li a {
