@@ -1,0 +1,72 @@
+/*
+.demo {
+    background-color: red;
+    @include mqMin(w4) {
+	    background-color: blue;
+	}
+}
+*/
+/*
+.demo {
+    background-color: red;
+    @include mqMax(w4) {
+	    background-color: blue;
+	}
+}
+*/
+/*
+.demo {
+    background-color: red;
+    @include mqRange(w2, w4) {
+	    background-color: blue;
+	}
+}
+*/
+.accordion-group {
+  padding: 1rem 0;
+}
+
+.accordion-group__accordion {
+  margin: 0 0 0.25rem 0;
+}
+
+.accordion-group__accordion-heading {
+  margin: 0;
+}
+
+.accordion-group__accordion-btn {
+  background-color: #e2e2e2;
+  border-color: #ccc;
+  border-radius: 0.3rem;
+  border-style: solid;
+  border-width: 0.05rem;
+  display: block;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  color: #000;
+  text-align: left;
+  width: 100%;
+}
+.accordion-group__accordion-btn:focus {
+  background-color: #bbc8d2;
+  border-color: #577b80;
+  border-radius: 0.3rem;
+  border-style: solid;
+  border-width: 0.05rem;
+}
+
+.accordion-group__accordion-panel {
+  border-color: #ccc;
+  border-radius: 0 0 0.3rem 0.3rem;
+  border-style: solid;
+  border-width: 0 0.05rem 0.05rem 0.05rem;
+  padding: 0.5rem 1rem;
+}
+
+.accordion-group__accordion-btn_expanded {
+  background-color: #bbc8d2;
+  border-color: #ccc;
+  border-radius: 0.3rem;
+  border-style: solid;
+  border-width: 0.05rem;
+}
