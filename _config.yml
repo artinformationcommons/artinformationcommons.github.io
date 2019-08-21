@@ -10,7 +10,6 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
 
-text-align: center
 navigation:
   - title: About
     url: /index
