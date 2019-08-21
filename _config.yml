@@ -11,12 +11,12 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
-    url: /index
+  - title: About
+    url: /about
   - title: Who We Are
     url: /who-we-are
-  - title: Activities
-    url: /activities
+  - title: Updates and Activities
+    url: /update-activities
   - title: Events
     url: /events
   - title: Resources
