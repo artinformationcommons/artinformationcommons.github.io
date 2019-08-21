@@ -15,8 +15,8 @@ navigation:
     url: /about
   - title: Who We Are
     url: /who-we-are
-  - title: Updates and Activities
-    url: /update-activities
+  - title: Updates & Activities
+    url: /updates-activities
   - title: Events
     url: /events
   - title: Resources
