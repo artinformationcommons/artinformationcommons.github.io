@@ -801,6 +801,7 @@ HEADER STYLING
 ***************/
 .header {
   background-color:#e83a17;
+  background-image: url("/assets/2008-53-1-pma.jpg");
   background-size: cover;
   background-position: center center;
   color: white;
