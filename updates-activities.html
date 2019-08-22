@@ -3,33 +3,6 @@ layout: default
 title: Art Information Commons
 ---
 
-<div class="home" id="home">
-  <h1 class="pageTitle">Updates and Activities</h1>
-<div class="post">
-  <p>We conduct various activities to foster understanding of the Art Information Commons across the Philadelphia Museum of Art and to engage internal stakeholders, listed below. These meetings and workshops help us gather insights from stakeholders in addition to clearly articulating updates and expected outcomes. </p></div>
-<!-- This loops through the paginated posts -->
-<ul class="posts noList">
-  {% for post in site.posts %}
-    <li>
-      <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-      <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
-    </li>
-  {% endfor %}
-</ul>
-
-
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
-    {% endif %}
-  </div>
- </div>
-
 <div class= "post">
 <h1 class="pageTitle">Updates & Activities</h1>
 <p>We conduct various activities to foster understanding of the Art Information Commons across the Philadelphia Museum of Art and to engage internal stakeholders, listed below. These meetings and workshops help us gather insights from stakeholders in addition to clearly articulating updates and expected outcomes. 
