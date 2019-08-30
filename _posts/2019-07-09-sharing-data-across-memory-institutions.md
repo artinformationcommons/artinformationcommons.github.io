@@ -11,8 +11,8 @@ Tuesday, July 9
 3:30–5:00 p.m.
 Perelman Building
  
-David Newbury, Enterprise Software and Data Architect at the J. Paul Getty Trust, discussed his work at the intersection of data, technology, and the fine arts to find common solutions to technical and scholarly problems.
+David Newbury, Enterprise Software and Data Architect at the J. Paul Getty Trust, discussed his work at the intersection of data, technology, and the fine arts to find common solutions to technical and scholarly problems.<br><br>
 
-If you missed it, you may view the recording of Sharing Data Across Memory Institutions <a href="https://drive.google.com/file/d/1Wgu8xl2P2crTBP4HxCxnQ2qbbh_ClIOJ/view?usp=sharing">here</a>.
+<iframe width="560" height="315" src="https://youtu.be/79XJfTAPGdI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br><br>
 The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>The Andrew W. Mellon Foundation</b>.
