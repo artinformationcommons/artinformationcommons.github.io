@@ -676,7 +676,7 @@ html {
   box-sizing: inherit; }
 
 body {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
   line-height: 1.5;
   font-size: 112.5%;
   color: #111;
@@ -800,7 +800,7 @@ PAGE STYLES
 HEADER STYLING
 ***************/
 .header {
-  background-color:#e83a17;
+  background-color:transparent;
   background-image: url("/assets/img/1936-22-7-imls2014.jpg");
   background-size: cover;
   background-position: center center;
