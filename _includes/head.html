@@ -32,9 +32,6 @@
     {% if page.image %}
       <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
     {% else %}
-    {% if page.image %}
-      <meta content="{{ site.url }}/assets/img/{{ page.image }}" property="og:image">
-    {% else %}
       <meta content="{{ '/assets/img/1936-22-7-imls2014.jpg' | prepend: site.url }}" property="og:image">
     {% endif %}
 
