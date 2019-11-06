@@ -3,8 +3,6 @@ layout: post
 title:  "Ask A Taxonomist...Between Two Ferns"
 date:   2019-11-19
 description: Join us for a conversation with Bree Midavaine, the taxonomist working on the museum’s Art Information Commons (AIC) initiative. This event is styled after the comedic YouTube series, but with the substance of #AskACurator.
-Can't make it? Follow along on Twitter @LandAatPMA and submit your questions using #AskATaxonomist.
-
 ---
 
 ### Ask A Taxonomist...Between Two Ferns
@@ -21,6 +19,8 @@ Juliet Vinegra (AIC Project Manager) will pose questions, sent by staff and exte
 This is a chance to ask your burning questions--even if it is “What is a taxonomist?”
 
 Please RSVP and submit your questions <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSflMrciO5Pyy7baecTI7sd4wyGiuCWk2BhJWKZbCHrPtTeSrA/viewform?usp=sf_link">here</a></b>. Even if you cannot attend, we encourage you to follow along on Twitter @LandAatPMA or ask us for a recording of the event.
+
+Can't make it? Follow along on Twitter @LandAatPMA and submit your questions using #AskATaxonomist.
 
 The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>The Andrew W. Mellon Foundation</b>.
 
