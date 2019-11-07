@@ -2,7 +2,7 @@
 layout: post 
 title:  "Ask A Taxonomist...Between Two Ferns"
 date:   2019-11-19
-description: Join us for a conversation with Bree Midavaine, the taxonomist working on the museum’s Art Information Commons (AIC) initiative. This event is styled after the comedic YouTube series, but with the substance of #AskACurator.
+description: Join us for a conversation with Bree Midavaine, the taxonomist working on the museum’s Art Information Commons (AIC) initiative. This event is styled after the comedic Funny or Die series, but with the substance of #AskACurator.
 ---
 
 ### Ask A Taxonomist...Between Two Ferns
