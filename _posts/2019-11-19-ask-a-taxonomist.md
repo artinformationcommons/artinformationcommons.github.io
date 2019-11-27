@@ -16,7 +16,7 @@ A riff on comedian Zach Galifinakis’ Funny or Die series Between Two Ferns and
 
 Juliet Vinegra (AIC Project Manager) posed questions, sent by staff and external colleagues, asking Bree about what, exactly, a taxonomist does, her role in the Art Information Commons initiative, and general knowledge management. 
 
-Couldn'tt make it? Check out some questions and posts Follow on Twitter @LandAatPMA with #AskATaxonomist. You can also review the presentation shared at the event <b><a href="/uploads/Ask a Taxonomist 11-19-19">here</a></b>.
+Couldn'tt make it? Check out some questions and posts Follow on Twitter @LandAatPMA with #AskATaxonomist. You can also review the presentation shared at the event <b><a href="/uploads/Ask a Taxonomist 11-19-19.pdf">here</a></b>.
 
 The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>The Andrew W. Mellon Foundation</b>.
 
