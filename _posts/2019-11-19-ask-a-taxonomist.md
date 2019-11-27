@@ -12,15 +12,11 @@ Tuesday, November 19<br>
 Perelman Building<br>
 @LandAatPMA
 
-The Art Information Commons (AIC) team invites you to Ask a Taxonomist...Between Two Ferns. A riff on comedian Zach Galifinakis’ Funny or Die series Between Two Ferns and the social media hashtag #askacurator, we will conduct an interview with Bree Midavaine (Taxonomist) who works with the museum’s Library and Archives on the AIC initiative. 
+A riff on comedian Zach Galifinakis’ Funny or Die series Between Two Ferns and the social media hashtag #askacurator, we conducted an interview with Bree Midavaine (Taxonomist) who works with the museum’s Library and Archives on the AIC initiative. 
 
-Juliet Vinegra (AIC Project Manager) will pose questions, sent by staff and external colleagues, asking Bree about what, exactly, a taxonomist does, her role in the Art Information Commons initiative, and general knowledge management. 
+Juliet Vinegra (AIC Project Manager) posed questions, sent by staff and external colleagues, asking Bree about what, exactly, a taxonomist does, her role in the Art Information Commons initiative, and general knowledge management. 
 
-This is a chance to ask your burning questions--even if it is “What is a taxonomist?”
-
-Please RSVP and submit your questions <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSflMrciO5Pyy7baecTI7sd4wyGiuCWk2BhJWKZbCHrPtTeSrA/viewform?usp=sf_link">here</a></b>. Even if you cannot attend, we encourage you to follow along on Twitter @LandAatPMA or ask us for a recording of the event.
-
-Can't make it? Follow along on Twitter @LandAatPMA and submit your questions using #AskATaxonomist.
+Couldn'tt make it? Check out some questions and posts Follow on Twitter @LandAatPMA with #AskATaxonomist. You can also review the presentation shared at the event <b><a href="/uploads/Ask a Taxonomist 11-19-19">here</a></b>.
 
 The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>The Andrew W. Mellon Foundation</b>.
 
