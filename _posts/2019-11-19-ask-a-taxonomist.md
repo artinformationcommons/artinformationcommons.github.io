@@ -18,7 +18,7 @@ Juliet Vinegra (AIC Project Manager) posed questions, sent by staff and external
 
 Couldn't make it? Check out some questions and posts Follow on Twitter @LandAatPMA with #AskATaxonomist. You can also review the presentation shared at the event <b><a href="/uploads/Ask a Taxonomist 11-19-19.pdf">here</a></b> and a recording of the program below.<br><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e688uz1cTPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/e688uz1cTPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br><br>
 
