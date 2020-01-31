@@ -16,11 +16,11 @@ During this half-day symposium, hear from colleagues in the cultural heritage fi
 Art in Context: Collaborating around the Collection will focus on collaborative efforts that help audiences discover meaningful connections between cultural heritage materials and their related contextual resources, such as archival, bibliographic, educational, scientific, and other data. Highlighting projects and initiatives that promote the stewardship, reuse, and sustainability of art information, we also want to emphasize the processes that go into this work. Our goal of the symposium is to share and celebrate how colleagues from different departments, fields, and institutions can learn from one another, exchange ideas, and develop new understandings for themselves.<br><br>
 
 Our speakers for the afternoon include:
-<ul>
-<li><b>Carissa Doughtery</b>, Head of Knowledge Management, Morton Arboretum</li>
-<li><b>Christopher J. Nygren</b>, Assistant Professor & Director, Medieval and Renaissance Studies Program, University of Pittsburgh</li>
-<li><b>Dot Porter</b>, Curator of Digital Research Services, Penn Libraries</li>
-</ul>
+<br><br>
+<b>Carissa Doughtery</b>, Head of Knowledge Management, Morton Arboretum<br><br>
+<b>Christopher J. Nygren</b>, Assistant Professor & Director, Medieval and Renaissance Studies Program, University of Pittsburgh<br><br>
+<b>Dot Porter</b>, Curator of Digital Research Services, Penn Libraries<br><br>
+
 
 
 
