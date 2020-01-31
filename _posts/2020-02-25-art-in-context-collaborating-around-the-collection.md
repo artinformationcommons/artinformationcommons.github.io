@@ -17,9 +17,9 @@ Art in Context: Collaborating around the Collection will focus on collaborative 
 
 Our speakers for the afternoon include:
 <ul>
-<li><b>Carissa Doughtery</b>, Head of Knowledge Management, Morton Arboretum</l>
-<li><b>Christopher J. Nygren<b>, Assistant Professor & Director, Medieval and Renaissance Studies Program, University of Pittsburgh</li>
-<li>Dot Porter, Curator of Digital Research Services, Penn Libraries</li>
+<li><b>Carissa Doughtery</b>, Head of Knowledge Management, Morton Arboretum</li>
+<li><b>Christopher J. Nygren</b>, Assistant Professor & Director, Medieval and Renaissance Studies Program, University of Pittsburgh</li>
+<li><b>Dot Porter</b>, Curator of Digital Research Services, Penn Libraries</li>
 </ul>
 
 
