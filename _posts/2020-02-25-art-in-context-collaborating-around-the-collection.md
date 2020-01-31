@@ -13,6 +13,8 @@ Perelman Building<br>
 
 During this half-day symposium, hear from colleagues in the cultural heritage field about their collaborative work, both digital and analog. 
 
+<a href="https://docs.google.com/forms/d/19QgMJhY1rt0vih7mN6jZhNmXXFgT1sx0bLePLHcDQDM/viewform?edit_requested=true">RSVP here</a> if you would like to attend.
+
 Can't make it? We will be posting a recording of the event afterwards for your viewing.
 
 
