@@ -15,7 +15,6 @@ During this half-day symposium, hear from colleagues in the cultural heritage fi
 
 Can't make it? We will be posting a recording of the event afterwards for your viewing.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/e688uz1cTPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br><br>
 
