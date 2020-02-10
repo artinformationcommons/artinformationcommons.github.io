@@ -2,7 +2,7 @@
 layout: post 
 title:  Semantic Web in Libraries Conference Report
 date:   2019-11-25
-description: During this half-day symposium, hear from colleagues in the cultural heritage field about their collaborative work, both digital and analog. 
+description: A blog post about a recent semantic web and linked open data conference, and how it can inform the Art Information Commons and other similar initiatives.
 ---
 
 ### Semantic Web in Libraries Conference Report by Bree Midavaine, Taxonomist
