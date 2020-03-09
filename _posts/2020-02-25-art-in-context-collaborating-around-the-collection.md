@@ -16,7 +16,7 @@ During this half-day symposium, we heard from colleagues in the cultural heritag
 Our speakers for the afternoon included:
 <br><br>
 <ul>
-  <li><b>Carissa Doughtery</b>, Head of Knowledge Management, Morton Arboretum</li><br>
+  <li><b>Carissa Dougherty</b>, Head of Knowledge Management, Morton Arboretum</li><br>
 <li><b>Christopher J. Nygren</b>, Assistant Professor & Director, Medieval and Renaissance Studies Program, University of Pittsburgh</li><br>
   <li><b>Dot Porter</b>, Curator of Digital Research Services, Penn Libraries</li></ul><br>
 
