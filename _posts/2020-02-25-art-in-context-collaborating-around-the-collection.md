@@ -17,7 +17,7 @@ Our speakers for the afternoon included:
 <br><br>
 <ul>
   <li><b>Carissa Dougherty</b>, Head of Knowledge Management, Morton Arboretum</li><br>
-<li><b>Christopher J. Nygren</b>, Assistant Professor & Director, Medieval and Renaissance Studies Program, University of Pittsburgh</li><br>
+<li><b>Christopher Nygren</b>, Assistant Professor & Director, Medieval and Renaissance Studies Program, University of Pittsburgh</li><br>
   <li><b>Dot Porter</b>, Curator of Digital Research Services, Penn Libraries</li></ul><br>
 
 
@@ -25,7 +25,12 @@ Our speakers for the afternoon included:
 
 
 
-Can't make it? We will be posting a recording of the event afterwards for your viewing.
+Couldn't make it? Here are the slides from each presenter:<br>
+<b><a href="/uploads/PMA_ArtInContext_PeopleProcessTechnology_Carissa Dougherty.pdf">People + Process + Technology: Approaching Collaboration and Change from a Knowledge Management Perspective</b></a> by Carissa Dougherty<br>
+<b><a href="/uploads/Nygren GLAM PMA 2020.pdf">Collaboration in Digital Art History, In Theory and Practice</b></a> by Chritopher Nygren<br> 
+<b><a href="/uploads/bibliophilly_art_in_context.pdf">Bibiotheca Philadelphiensis: A Philadelphia-Area Collaboration</b></a> by Dot Porter<br><br>
+
+We will also be posting a recording of the event afterwards for your viewing.
 
 
 <br><br>
