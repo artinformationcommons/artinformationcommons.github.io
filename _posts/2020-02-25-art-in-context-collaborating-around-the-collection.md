@@ -26,9 +26,10 @@ Our speakers for the afternoon included:
 
 
 Couldn't make it? Here are the slides from each presenter:<br>
-<b><a href="/uploads/PMA_ArtInContext_PeopleProcessTechnology_Carissa Dougherty.pdf">People + Process + Technology: Approaching Collaboration and Change from a Knowledge Management Perspective</b></a> by Carissa Dougherty<br>
-<b><a href="/uploads/Nygren GLAM PMA 2020.pdf">Collaboration in Digital Art History, In Theory and Practice</b></a> by Chritopher Nygren<br> 
-<b><a href="/uploads/bibliophilly_art_in_context.pdf">Bibiotheca Philadelphiensis: A Philadelphia-Area Collaboration</b></a> by Dot Porter<br><br>
+<ul>
+<li><b><a href="/uploads/PMA_ArtInContext_PeopleProcessTechnology_Carissa Dougherty.pdf">People + Process + Technology: Approaching Collaboration and Change from a Knowledge Management Perspective</a></b> by Carissa Dougherty>/li><br>
+<li><b><a href="/uploads/Nygren GLAM PMA 2020.pdf">Collaboration in Digital Art History, In Theory and Practice</a></b> by Christopher Nygren</li><br> 
+<li><b><a href="/uploads/bibliophilly_art_in_context.pdf">Bibiotheca Philadelphiensis: A Philadelphia-Area Collaboration</a></b> by Dot Porter</li></ul><br><br>
 
 We will also be posting a recording of the event afterwards for your viewing.
 
