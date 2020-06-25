@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: post 
 title:  "Sharing Data Across Memory Institutions"
 date:   2019-07-09
-description: On Wednesday, July 9th, David Newbury will discuss his work at the intersection of data, technology, and the fine arts to find common solutions to technical and scholarly problems.
+description: David Newbury, Enterprise Software and Data Architect at the J. Paul Getty Trust, discussed his work at the intersection of data, technology, and the fine arts to find common solutions to technical and scholarly problems.
 ---
 
 ### Sharing Data Across Memory Institutions
@@ -11,6 +11,9 @@ Tuesday, July 9
 3:30–5:00 p.m.
 Perelman Building
  
-Please join us for a talk by David Newbury, Enterprise Software and Data Architect at the J. Paul Getty Trust, who will discuss his work at the intersection of data, technology, and the fine arts to find common solutions to technical and scholarly problems.
+David Newbury, Enterprise Software and Data Architect at the J. Paul Getty Trust, discussed his work at the intersection of data, technology, and the fine arts to find common solutions to technical and scholarly problems. If you missed it, there is a recording of the full lecture below.<br><br>
 
-<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMjL4KdLHJNSOnbYeuuWC0-D-HbHIr4BgPqLyag-yTKsGaeA/viewform?embedded=true" width="640" height="1348" align="middle" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/79XJfTAPGdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<br><br>
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>The Andrew W. Mellon Foundation</b>.

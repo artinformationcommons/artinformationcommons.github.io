@@ -1,5 +1,5 @@
 title: Art Information Commons
-description: [add a blurb about art information commons and this page]
+description: A Philadelphia Museum of Art intitiative that aims to transform the way we holistically manage our collections-related data and support a sustainable information culture.
 
 url: https://artinformationcommons.github.io
 paginate_path: "blog/page:num/"
@@ -11,12 +11,20 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: About
     url: /index
-  - title: Updates and Events
-    url: /updates-events
+  - title: Who We Are
+    url: /who-we-are
+  - title: Updates & Activities
+    url: /updates-activities
+  - title: Events & Conferences
+    url: /events-conferences/
   - title: Resources
     url: /resources
+  - title: Toolkit
+    url: /toolkit
+  
+  
 
 social:
   github: --

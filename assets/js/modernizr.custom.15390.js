@@ -314,7 +314,7 @@ window.Modernizr = (function( window, document, undefined ) {
     };
 
     tests['hsla'] = function() {
-            setCss('background-color:hsla(120,40%,100%,.5)');
+            setCss('background-color:hsla(232,58,23,.5)');
 
         return contains(mStyle.backgroundColor, 'rgba') || contains(mStyle.backgroundColor, 'hsla');
     };

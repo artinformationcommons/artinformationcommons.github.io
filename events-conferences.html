@@ -1,0 +1,30 @@
+---
+layout: default
+title: Events & Conferences
+---
+<div class="home" id="home">
+  <h2 class="pageTitle">Events & Conferences</h2>
+
+  <p>As part of the Art Information Commons, we are hosting various lectures, panels, workshops, and events which external colleagues are welcome to join. Sign up for our <a href="https://groups.google.com/d/forum/art-information-commons">Art Information Commons Google Group</a> to stay informed.</p></div>
+<!-- This loops through the paginated posts -->
+<ul class="posts noList">
+  {% for post in site.posts %}
+    <li>
+      <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+      <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
+    {% endif %}
+  </div>
+ <p><br><br>The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>The Andrew W. Mellon Foundation</b>.</p>
