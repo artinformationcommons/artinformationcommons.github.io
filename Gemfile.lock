@@ -258,6 +258,7 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   support-for
+  "lodash.template": ">=4.5.0"
 
 BUNDLED WITH
    1.17.2
