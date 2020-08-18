@@ -5,7 +5,7 @@ url: https://artinformationcommons.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-theme: brianmaierjr/long-haul
+remote_theme: brianmaierjr/long-haul
 
 markdown: kramdown
 highlighter: rouge
