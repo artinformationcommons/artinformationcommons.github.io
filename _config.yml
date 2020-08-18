@@ -5,6 +5,8 @@ url: https://artinformationcommons.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
+remote_theme: brianmaierjr/long-haul
+
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
@@ -23,8 +25,6 @@ navigation:
     url: /resources
   - title: Toolkit
     url: /toolkit
-  
-  
 
 social:
   github: --
