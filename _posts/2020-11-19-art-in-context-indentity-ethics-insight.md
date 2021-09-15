@@ -11,6 +11,13 @@ description: A half-day symposium on identity management
 <b>1:00–3:30 p.m.</b><br>
 <b>Virtual</b><br><br>
 
+The Art Information Commons is pleased to present its second symposium, Art in Context: Identity, Ethics, and Insight.  Join us as we explore how identity is managed--or not--across a variety of disciplines throughout the cultural heritage community.<br><br>
+
+Topics will range from ethics; how to manage identities in our fast-paced digital landscape; how to leverage new, more democratic technologies while incorporating long-established authorities; and what we can do to prepare for the future of identity management, archival practices, cataloging, and other information management concepts in order to make the most connections between our cultural data and create a more diverse narrative.<br><br>
+
+You may <a href="https://docs.google.com/forms/d/e/1FAIpQLSeEry4P1ebADvHNK5lSBQ1ZDZKfeB7OekuYAvO9Rd1WZgiTkw/viewform?usp=sf_link"><b>RSVP here</b></a> by November 1, 2021.
+
+
 <b>Agenda</b><br>
 <b>1:00pm-1:10pm</b><br>
 <b>Welcome & Introductions</b><br><br>
@@ -42,6 +49,7 @@ Bree Midavaine, Taxonomist, Philadelphia Museum of Art<br><br>
 <b>3:30pm</b><br>
 <b>Wrap-up and Closing Remarks</b><br><br>
 
+For more information on our speakers, you may review their full bios here.<br><br>
 
 We will also be posting a recording of the event afterwards for your viewing.
 
