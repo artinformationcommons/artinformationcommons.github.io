@@ -53,8 +53,6 @@ Bree Midavaine, Taxonomist, Philadelphia Museum of Art
 
 For more information on our speakers, you may review their full bios here.
 
-<a href=https://docs.google.com/forms/d/e/1FAIpQLSeEry4P1ebADvHNK5lSBQ1ZDZKfeB7OekuYAvO9Rd1WZgiTkw/viewform?usp=sf_link><b>RSVP</b></a>
-
 We will also be posting a recording of the event afterwards for your viewing.
 
 
