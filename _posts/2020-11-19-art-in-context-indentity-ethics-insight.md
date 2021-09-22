@@ -7,9 +7,9 @@ description: A half-day symposium on identity management
 
 ### Art in Context: Identity, Ethics, and Insight
 
-<b>Friday, November 19</b>
-<b>1:00–3:30 p.m.</b>
-<b>Virtual</b>
+<b>Friday, November 19</b><br>
+<b>1:00–3:30 p.m.</b><br>
+<b>Virtual</b><br>
 
 Libraries, archives and museums have long had systems in place to manage identities (e.g. Library of Congress and Getty authorities) to help organize and share resources. Great responsibility is attached to this work due to the complexities surrounding assignments of identity. Identity is complex, fluid, and multilayered. It is public, yet deeply personal, therefore there is much to be considered. 
 
