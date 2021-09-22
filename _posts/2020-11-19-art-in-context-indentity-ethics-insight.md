@@ -51,7 +51,7 @@ Bree Midavaine, Taxonomist, Philadelphia Museum of Art<br>
 <b>3:30pm</b><br>
 <b>Wrap-up and Closing Remarks</b><br>
 
-For more information on our speakers, you may review their full bios <a href="artinformationcommons.github.io/uploads/Nov 2021 Symposium Speaker Bios (1).pdf>here</a>.<br>
+For more information on our speakers, you may review their full bios <a href="artinformationcommons.github.io/uploads/Nov 2021 Symposium Speaker Bios (1)>here</a>.<br>
 
 We will also be posting a recording of the event afterwards for your viewing.<br>
 
