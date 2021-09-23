@@ -10,14 +10,14 @@ description: A half-day symposium on identity management
 <b>Friday, November 19</b><br>
 <b>1:00–3:30 p.m.</b><br>
 <b>Virtual</b><br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeEry4P1ebADvHNK5lSBQ1ZDZKfeB7OekuYAvO9Rd1WZgiTkw/viewform?usp=sf_link"><b>RSVP here</b></a> by November 1, 2021<br>
+<a href="/uploads/Nov 2021 Symposium Speaker Bios (1).pdf"><b>Speaker Biographies</b></a><br>
 
-Libraries, archives and museums have long had systems in place to manage identities (e.g. Library of Congress and Getty authorities) to help organize and share resources. Great responsibility is attached to this work due to the complexities surrounding assignments of identity. Identity is complex, fluid, and multilayered. It is public, yet deeply personal, therefore there is much to be considered. 
+Libraries, archives and museums have long had systems in place to manage identities (e.g. Library of Congress and Getty authorities) to help organize and share resources. Great responsibility is attached to this work due to the nuances surrounding assignments of identity. Identity is complex, fluid, and multilayered. It is public, yet deeply personal, therefore there is much to be considered. 
 
-How can we ethically and responsibly manage identities in today’s rapidly-changing technological landscape? How do we leverage new technologies such as Conceptual Reference Models, Linked Open Data, Wikidata, Wikibase, etc. for more ethical and democratic management without losing the work and context that’s already been done in long-established authorities such as the Getty and LOC? What actions are we putting in place now to prepare for a better, more ethical future in identity, archival practices, cataloging, and other information management concepts? What are the best practices for soliciting and capturing the identity of living artists and also for respecting those who are deceased or are otherwise unable to identify themselves? 
+Join us as we explore how identity is managed—or not—across a variety of disciplines throughout the cultural heritage community.
 
-While we may not have answers to all of these questions, join us as we explore these issues in our fall Art Information Commons Symposium and share what folks have been doing to tackle some of these ideas.
-
-You may <a href="https://docs.google.com/forms/d/e/1FAIpQLSeEry4P1ebADvHNK5lSBQ1ZDZKfeB7OekuYAvO9Rd1WZgiTkw/viewform?usp=sf_link"><b>RSVP here</b></a> by November 1, 2021.
+Topics will range from ethics; how to manage identities in our fast-paced digital landscape; how to leverage new, more democratic technologies while incorporating long-established authorities; and what we can do to prepare for the future of identity management, archival practices, cataloging, and other information management concepts in order to make the most connections between our cultural data and create a more diverse narrative.
 
 
 <b>Agenda</b><br>
@@ -51,7 +51,6 @@ Bree Midavaine, Taxonomist, Philadelphia Museum of Art<br>
 <b>3:30pm</b><br>
 <b>Wrap-up and Closing Remarks</b><br>
 
-For more information on our speakers, you may review their full bios <a href="/uploads/Nov 2021 Symposium Speaker Bios (1).pdf"><b>here</b></a>.<br>
 
 We will also be posting a recording of the event afterwards for your viewing.<br>
 
