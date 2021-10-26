@@ -56,4 +56,4 @@ We will also be posting a recording of the event afterwards for your viewing.<br
 
 
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b><a href="https://mellon.org/>"The Andrew W. Mellon Foundation</a></b>.
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b><a href="https://mellon.org/">The Andrew W. Mellon Foundation</a></b>.
