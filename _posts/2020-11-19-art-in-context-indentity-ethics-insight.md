@@ -20,11 +20,9 @@ Join us as we explore how identity is managed—or not—across a variety of dis
 Topics will range from ethics; how to manage identities in our fast-paced digital landscape; how to leverage new, more democratic technologies while incorporating long-established authorities; and what we can do to prepare for the future of identity management, archival practices, cataloging, and other information management concepts in order to make the most connections between our cultural data and create a more diverse narrative.
 
 
-<b>Agenda</b><br>
-<b>1:00pm-1:10pm</b><br>
+<b>Program</b><br>
 <b>Welcome & Introductions</b><br>
 
-<b>1:10pm-2:10pm</b><br>
 <b>Theory + Q&A</b><br>
 <b>Moderator</b><br>
 Synatra Smith, CLIR/DLF Postdoctoral Fellow in Data Curation for African American Studies, Philadelphia Museum of Art/Temple University<br> 
@@ -34,21 +32,15 @@ Zakiya Collier, Digital Archivist, Schomberg<br>
 Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art<br>
 Gala Porras-Kim, Contemporary Interdisciplinary Artist<br>
 
-<b>2:10pm-2:20pm</b><br>
-Coffee Break<br>
-
-<b>2:20pm-3:30pm</b><br>
 <b>Practice + Q&A</b><br>
 <b>Moderator</b><br>
 Alex Kron, Digital Projects and Collections Specialist, Balboa Park Online Collaborative<br>
 
 <b>Speakers</b><br>
-Alex Kapitan, trainer, speaker, consultant, editor, and activist, Radical Copyeditor<br>
 Tanya Calvin, Community Engagement Archivist, Black Metropolis Research Consortium <br>
 Steven J. Baskauf, Data Science and Data Curation Specialist, Jean & Alexander Heard Libraries, Vanderbilt University<br>
 Bree Midavaine, Taxonomist, Philadelphia Museum of Art<br>
 
-<b>3:30pm</b><br>
 <b>Wrap-up and Closing Remarks</b><br>
 
 
