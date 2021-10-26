@@ -29,8 +29,13 @@ Synatra Smith, CLIR/DLF Postdoctoral Fellow in Data Curation for African America
 
 <b>Speakers</b><br>
 Zakiya Collier, Digital Archivist, Schomberg<br>
+<i>Ethical Expressions of Collective Memory: Re/presenting Black Life in Web Archiving and Linked Open Data</i><br>
+
 Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art<br>
+<i>Why do you ask?: Name Authority Control in Art Museums and Libraries</i><br>
+
 Gala Porras-Kim, Contemporary Interdisciplinary Artist<br>
+<i>I want to prepare to learn something I don't know</i><br>
 
 <b>Practice + Q&A</b><br>
 <b>Moderator</b><br>
@@ -38,8 +43,13 @@ Alex Kron, Digital Projects and Collections Specialist, Balboa Park Online Colla
 
 <b>Speakers</b><br>
 Tanya Calvin, Community Engagement Archivist, Black Metropolis Research Consortium <br>
+<i>Asking, Listening, and Providing Resources: Legacy Management for Black Chicagoland Communities</i><br>
+
 Steven J. Baskauf, Data Science and Data Curation Specialist, Jean & Alexander Heard Libraries, Vanderbilt University<br>
+<i>Who's the artist and who gets to decide? Identity management in Wikidata, where "anyone can edit”</i><br>
+
 Bree Midavaine, Taxonomist, Philadelphia Museum of Art<br>
+<i>Identity: Conversation to Mindful Impact</i><br>
 
 <b>Wrap-up and Closing Remarks</b><br>
 
