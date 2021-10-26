@@ -10,7 +10,7 @@ description: A half-day symposium on identity management
 <b>Friday, November 19</b><br>
 <b>1:00–3:30 p.m.</b><br>
 <b>Virtual</b><br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeEry4P1ebADvHNK5lSBQ1ZDZKfeB7OekuYAvO9Rd1WZgiTkw/viewform?usp=sf_link"><b>RSVP here</b></a> by November 1, 2021<br>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeEry4P1ebADvHNK5lSBQ1ZDZKfeB7OekuYAvO9Rd1WZgiTkw/viewform?usp=sf_link"><b>RSVP here</b></a><br>
 <a href="/uploads/Nov 2021 Symposium Speaker Bios.pdf"><b>Speaker Biographies</b></a><br>
 
 Libraries, archives and museums have long had systems in place to manage identities (e.g. Library of Congress and Getty authorities) to help organize and share resources. Great responsibility is attached to this work, especially because of the nuances surrounding assignments of identity. Identity is complex, fluid, and multilayered. It is public, yet deeply personal, therefore there is much to be considered. 
@@ -56,4 +56,4 @@ We will also be posting a recording of the event afterwards for your viewing.<br
 
 
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>The Andrew W. Mellon Foundation</b>.
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b><a href="https://mellon.org/>"The Andrew W. Mellon Foundation</a></b>.
