@@ -13,11 +13,11 @@ description: A half-day symposium on identity management
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeEry4P1ebADvHNK5lSBQ1ZDZKfeB7OekuYAvO9Rd1WZgiTkw/viewform?usp=sf_link"><b>RSVP here</b></a> by November 1, 2021<br>
 <a href="/uploads/Nov 2021 Symposium Speaker Bios.pdf"><b>Speaker Biographies</b></a><br>
 
-Libraries, archives and museums have long had systems in place to manage identities (e.g. Library of Congress and Getty authorities) to help organize and share resources. Great responsibility is attached to this work due to the nuances surrounding assignments of identity. Identity is complex, fluid, and multilayered. It is public, yet deeply personal, therefore there is much to be considered. 
+Libraries, archives and museums have long had systems in place to manage identities (e.g. Library of Congress and Getty authorities) to help organize and share resources. Great responsibility is attached to this work, especially because of the nuances surrounding assignments of identity. Identity is complex, fluid, and multilayered. It is public, yet deeply personal, therefore there is much to be considered. 
 
 Join us as we explore how identity is managed—or not—across a variety of disciplines throughout the cultural heritage community.
 
-Topics will range from ethics; how to manage identities in our fast-paced digital landscape; how to leverage new, more democratic technologies while incorporating long-established authorities; and what we can do to prepare for the future of identity management, archival practices, cataloging, and other information management concepts in order to make the most connections between our cultural data and create a more diverse narrative.
+Topics will range from ethics; how to manage identities in our fast-paced digital landscape; how to leverage new, more democratic technologies while incorporating long-established authorities; and what we can do to prepare for the future of identity management, archival practices, cataloging, and other information management concepts in order to make meaningful connections between our cultural data and create a more diverse narrative.
 
 
 <b>Program</b><br>
