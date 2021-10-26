@@ -51,8 +51,6 @@ Steven J. Baskauf, Data Science and Data Curation Specialist, Jean & Alexander H
 Bree Midavaine, Taxonomist, Philadelphia Museum of Art<br>
 <i>Identity: Conversation to Mindful Impact</i><br>
 
-<b>Wrap-up and Closing Remarks</b><br>
-
 
 We will also be posting a recording of the event afterwards for your viewing.<br>
 
