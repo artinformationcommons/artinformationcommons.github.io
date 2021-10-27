@@ -22,6 +22,8 @@ Topics will range from ethics; how to manage identities in our fast-paced digita
 
 <b>Program</b><br>
 <b>Welcome & Introductions</b><br>
+Kirsten Regina, Arcadia Director of the Library and Archives<br>
+Juliet Vinegra, Project Manager, Art Information Commons<br>
 
 <b>Theory + Q&A</b><br>
 <b>Moderator</b><br>
