@@ -10,7 +10,6 @@ description: A half-day symposium on identity management
 <b>Friday, November 19</b><br>
 <b>1:00–3:30 p.m.</b><br>
 <b>Virtual</b><br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeEry4P1ebADvHNK5lSBQ1ZDZKfeB7OekuYAvO9Rd1WZgiTkw/viewform?usp=sf_link"><b>RSVP here</b></a><br>
 <a href="/uploads/Nov 2021 Symposium Speaker Bios.pdf"><b>Speaker Biographies</b></a><br>
 
 Libraries, archives and museums have long had systems in place to manage identities (e.g. Library of Congress and Getty authorities) to help organize and share resources. Great responsibility is attached to this work, especially because of the nuances surrounding assignments of identity. Identity is complex, fluid, and multilayered. It is public, yet deeply personal, therefore there is much to be considered. 
@@ -29,15 +28,16 @@ Juliet Vinegra, Project Manager, Art Information Commons<br>
 <b>Moderator</b><br>
 Synatra Smith, CLIR/DLF Postdoctoral Fellow in Data Curation for African American Studies, Philadelphia Museum of Art/Temple University<br> 
 
-<b>Speakers</b><br>
-Zakiya Collier, Digital Archivist, Schomberg<br>
-<i>Ethical Expressions of Collective Memory: Re/presenting Black Life in Web Archiving and Linked Open Data</i><br>
+Gala Porras-Kim, Contemporary Interdisciplinary Artist<br>
+<i>I want to prepare to learn something I don't know</i><br>
 
 Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art<br>
 <i>Why do you ask?: Name Authority Control in Art Museums and Libraries</i><br>
 
-Gala Porras-Kim, Contemporary Interdisciplinary Artist<br>
-<i>I want to prepare to learn something I don't know</i><br>
+<b>Speakers</b><br>
+Zakiya Collier, Digital Archivist, Schomberg<br>
+<i>Ethical Expressions of Collective Memory: Re/presenting Black Life in Web Archiving and Linked Open Data</i><br>
+
 
 <b>Practice + Q&A</b><br>
 <b>Moderator</b><br>
@@ -54,7 +54,7 @@ Bree Midavaine, Taxonomist, Philadelphia Museum of Art<br>
 <i>Identity: Conversation to Mindful Impact</i><br>
 
 
-We will also be posting a recording of the event afterwards for your viewing.<br>
+To view the symposium, please visit this <a href="https://philamuseum-org.zoom.us/rec/share/9BiNg--Ydd2IbofMeiitgIdL2uwOWeT8epAKs3Hd-9pl1oq8zOLF85VoWqB4oenc.qVvsgXlDsKiFZsjg"><b>link</b></a> and use passcode: u0&0Undr.<br>
 
 
 
