@@ -67,4 +67,4 @@ Please note some of the wording for these summaries has been taken from the abst
 
 
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>The Andrew W. Mellon Foundation</b>.</p>
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>Mellon Foundation</b>.</p>
