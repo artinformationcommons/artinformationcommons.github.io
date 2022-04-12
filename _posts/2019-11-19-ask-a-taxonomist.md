@@ -22,5 +22,5 @@ Couldn't make it? Check out some questions and posts Follow on Twitter @LandAatP
 
 <br><br>
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>Mellon Foundation</b>.
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.
 
