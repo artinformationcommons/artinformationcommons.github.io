@@ -37,4 +37,4 @@ We will also be posting a recording of the event afterwards for your viewing.
 
 <br><br>
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>Mellon Foundation</b>.
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.
