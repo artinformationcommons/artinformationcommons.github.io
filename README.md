@@ -3,6 +3,6 @@
 
 
 
-This is the home site for the Art Information Commons, funded by Mellon Foundation. 
+This is the home site for the Art Information Commons, funded by the Mellon Foundation. 
 
 This is site is made using [Long Haul](http://github.com/brianmaierjr/long-haul).
