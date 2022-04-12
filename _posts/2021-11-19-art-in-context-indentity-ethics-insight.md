@@ -58,4 +58,4 @@ To view the symposium, please visit this <a href="https://philamuseum-org.zoom.u
 
 We gathered a list of resources and links from presentations and discussion during the symposium, which you can view <a href="https://artinformationcommons.github.io/uploads/Art%20in%20Context_%20Identity,%20Ethics,%20and%20Insight%20Resources%20Document.pdf"><b>here</b></a>.<br>
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by Mellon Foundation.
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.
