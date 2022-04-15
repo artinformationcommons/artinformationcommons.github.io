@@ -21,6 +21,7 @@ Juliet Vinegra, Project Manager, Art Information Commons<br>
 
 <b>Panel One</b><br>
 1 hour<br>
+
 <b>Moderator</b><br>
 Synatra Smith, CLIR/DLF Postdoctoral Fellow in Data Curation for African American Studies, Philadelphia Museum of Art/Temple University<br> 
 
@@ -43,6 +44,7 @@ Break<br>
 
 <b>Panel Two</b><br>
 1 hour<br>
+
 <b>Moderator</b><br>
 Ksenia Nouril, Jensen Bryan Curator, The Print Center<br>
 
