@@ -20,34 +20,49 @@ Kirsten Regina, Arcadia Director of the Library and Archives<br>
 Juliet Vinegra, Project Manager, Art Information Commons<br>
 
 <b>Panel One</b><br>
+1 hour<br>
 <b>Moderator</b><br>
 Synatra Smith, CLIR/DLF Postdoctoral Fellow in Data Curation for African American Studies, Philadelphia Museum of Art/Temple University<br> 
 
-Gala Porras-Kim, Contemporary Interdisciplinary Artist<br>
-<i>Title forthcoming</i><br>
-
-Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art<br>
-<i>Title forthcoming</i><br>
-
 <b>Speakers</b><br>
-Zakiya Collier, Digital Archivist, Schomberg<br>
+Dr. K. Wayne Yang, Provost, John Muir College, University of California San Diego<br>
+and Dr. Caroline Collins, Postdoctoral Fellow, University of California, San Diego<br>
 <i>Title forthcoming</i><br>
 
+Dr. Petrouchka Moise, CLIR/Mellon Postdoctoral Fellow in Data Curation for Haitian Visual Arts, Grinnell College<br>
+<i>Title forthcoming</i><br>
+
+Dr. Kelly Baker Josephs, English Professor, York College, CUNY<br>
+<i>Title forthcoming</i><br>
+
+Demian DinéYazhi', Sovereign Artist<br>
+<i>Title forthcoming</i><br>
+
+Break<br>
+15 minutes<br>
 
 <b>Panel Two</b><br>
+1 hour<br>
 <b>Moderator</b><br>
-Ksenia Nouril, <br>
+Ksenia Nouril, Jensen Bryan Curator, The Print Center<br>
 
 <b>Speakers</b><br>
-Tanya Calvin, Community Engagement Archivist, Black Metropolis Research Consortium <br>
+Ahava Cohen, Head, Cataloging Section, National Library of Israel<br>
 <i>Title forthcoming</i><br>
 
-Steven J. Baskauf, Data Science and Data Curation Specialist, Jean & Alexander Heard Libraries, Vanderbilt University<br>
+Alex Kapitan, trainer, speaker, consultant, editor, and activist, Radical Copyeditor<br>
 <i>Title forthcoming</i><br>
 
-Bree Midavaine, Taxonomist, Philadelphia Museum of Art<br>
+Yevgeny Fiks, Artist<br>
 <i>Title forthcoming</i><br>
 
-We will post a recording of our program following the symposium.
+Jasmine Lelis Clark, Digital Scholarship Librarian, Temple University<br>
+<i>Title forthcoming</i><br>	
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.
+Discussion for Speakers & Participants<br>
+1 hour<br>
+
+
+We will post a recording of our program following the symposium.<br>
+
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.<br>
