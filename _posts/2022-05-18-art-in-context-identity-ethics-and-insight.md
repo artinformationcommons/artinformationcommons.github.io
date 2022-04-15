@@ -39,7 +39,7 @@ Dr. Kelly Baker Josephs, English Professor, York College, CUNY<br>
 Demian DinéYazhi', Sovereign Artist<br>
 <i>Title forthcoming</i><br>
 
-Break<br>
+<b>Break</b><br>
 15 minutes<br>
 
 <b>Panel Two</b><br>
