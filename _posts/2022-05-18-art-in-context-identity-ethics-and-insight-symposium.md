@@ -1,6 +1,6 @@
 ---
 layout: post 
-title:  "Art in Context: Identity, Ethics, and Insight"
+title:  "Art in Context: Identity, Ethics, and Insight Symposium"
 date:   2022-05-18
 description: A symposium on identity management
 ---
