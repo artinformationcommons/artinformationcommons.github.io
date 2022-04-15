@@ -10,7 +10,7 @@ description: A symposium on identity management
 <b>Wednesday, May 18</b><br>
 <b>10:00 a.m.–1:15 p.m.</b><br>
 <b>Virtual</b><br>
-<a href=""><b>Speaker Biographies</b></a><br>
+<b>Speaker Biographies</b></a><br>
 
 In this second symposium focused on identity management, we want to explore how the languages we speak, the cultures we grew up in, and the places we live affect the ways in which we identify, and the ways others identify us. Further, as cultural heritage professionals, how do we mindfully, ethically, and accurately respect and capture the nuance, richness, and multi-faceted complexity of identity? We hope this symposium will challenge us to think more deeply about these issues and share some ways to practically address them.
 
