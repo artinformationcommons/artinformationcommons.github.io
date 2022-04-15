@@ -64,7 +64,7 @@ Jasmine Lelis Clark, Digital Scholarship Librarian, Temple University<br>
 Discussion for Speakers & Participants<br>
 1 hour<br>
 
-
+ 
 We will post a recording of our program following the symposium.<br>
 
 The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.<br>
