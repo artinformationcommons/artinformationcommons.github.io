@@ -27,7 +27,7 @@ Synatra Smith, CLIR/DLF Postdoctoral Fellow in Data Curation for African America
 
 <b>Speakers</b><br>
 Dr. K. Wayne Yang, Provost, John Muir College, University of California San Diego<br>
-and Dr. Caroline Collins, Postdoctoral Fellow, University of California, San Diego<br>
+and Dr. Caroline Collins, Cathryn P. Gamble Postdoctoral Fellow, University of California, San Diego<br>
 <i>Title forthcoming</i><br>
 
 Dr. Petrouchka Moise, CLIR/Mellon Postdoctoral Fellow in Data Curation for Haitian Visual Arts, Grinnell College<br>
