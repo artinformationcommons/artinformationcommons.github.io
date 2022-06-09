@@ -5,14 +5,10 @@ date:   2021-11-19
 description: A half-day symposium on identity management
 ---
 
-### Art in Context: Identity, Ethics, and Insight
-
-**Friday, November 19**
-
-**1:00–3:30 p.m.**
-
-**Virtual**
-
+### Art in Context: Identity, Ethics, and Insight  
+**Friday, November 19**  
+**1:00–3:30 p.m.**  
+**Virtual**  
 **[Speaker Biographies](artinformationcommons.github.io/uploads/Nov%202021%20Symposium%20Speaker%20Bios.pdf)**
 
 
@@ -26,61 +22,46 @@ Topics will range from ethics; how to manage identities in our fast-paced digita
 
 
 
-**Program**
-
-**Welcome & Introductions**
-
-Kirsten Regina, Arcadia Director of the Library and Archives
-
-Juliet Vinegra, Project Manager, Art Information Commons
+**Program**  
+**Welcome & Introductions**  
+Kirsten Regina, Arcadia Director of the Library and Archives  
+Juliet Vinegra, Project Manager, Art Information Commons  
 
 
-**Theory + Q&A**
-
-**Moderator**
-
+**Theory + Q&A**  
+**Moderator**  
 Synatra Smith, CLIR/DLF Postdoctoral Fellow in Data Curation for African American Studies, Philadelphia Museum of Art/Temple University<br> 
 
 
-Gala Porras-Kim, Contemporary Interdisciplinary Artist
-
+Gala Porras-Kim, Contemporary Interdisciplinary Artist  
 *I want to prepare to learn something I don't know*
 
 
-Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art
-
+Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art  
 *Why do you ask?: Name Authority Control in Art Museums and Libraries*
 
 
-**Speakers**
-
-Zakiya Collier, Digital Archivist, Schomberg
-
-*Ethical Expressions of Collective Memory: Re/presenting Black Life in Web Archiving and Linked Open Data*
+**Speakers**  
+Zakiya Collier, Digital Archivist, Schomberg  
+*Ethical Expressions of Collective Memory: Re/presenting Black Life in Web Archiving and Linked Open Data*  
 
 
 
-**Practice + Q&A**
-
-**Moderator**
-
-Alex Kron, Digital Projects and Collections Specialist, Balboa Park Online Collaborative
+**Practice + Q&A**  
+**Moderator**  
+Alex Kron, Digital Projects and Collections Specialist, Balboa Park Online Collaborative  
 
 
-**Speakers**
-
-Tanya Calvin, Community Engagement Archivist, Black Metropolis Research Consortium
-
-*Asking, Listening, and Providing Resources: Legacy Management for Black Chicagoland Communities*
+**Speakers**  
+Tanya Calvin, Community Engagement Archivist, Black Metropolis Research Consortium  
+*Asking, Listening, and Providing Resources: Legacy Management for Black Chicagoland Communities*  
 
 
-Steven J. Baskauf, Data Science and Data Curation Specialist, Jean & Alexander Heard Libraries, Vanderbilt University
-
+Steven J. Baskauf, Data Science and Data Curation Specialist, Jean & Alexander Heard Libraries, Vanderbilt University  
 *Who's the artist and who gets to decide? Identity management in Wikidata, where "anyone can edit”*
 
 
-Bree Midavaine, Taxonomist, Philadelphia Museum of Art
-
+Bree Midavaine, Taxonomist, Philadelphia Museum of Art  
 *Identity: Conversation to Mindful Impact*
 
 
