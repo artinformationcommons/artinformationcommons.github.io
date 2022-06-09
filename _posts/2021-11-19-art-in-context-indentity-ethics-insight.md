@@ -33,28 +33,31 @@ Gala Porras-Kim, Contemporary Interdisciplinary Artist<br>
 Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art<br>
 *Why do you ask?: Name Authority Control in Art Museums and Libraries*
 
-<b>Speakers</b><br>
-Zakiya Collier, Digital Archivist, Schomberg<br>
-<i>Ethical Expressions of Collective Memory: Re/presenting Black Life in Web Archiving and Linked Open Data</i><br>
+**Speakers**
+Zakiya Collier, Digital Archivist, Schomberg
+*Ethical Expressions of Collective Memory: Re/presenting Black Life in Web Archiving and Linked Open Data*
 
 
-<b>Practice + Q&A</b><br>
-<b>Moderator</b><br>
-Alex Kron, Digital Projects and Collections Specialist, Balboa Park Online Collaborative<br>
+**Practice + Q&A
+Moderator**
+Alex Kron, Digital Projects and Collections Specialist, Balboa Park Online Collaborative
 
-<b>Speakers</b><br>
-Tanya Calvin, Community Engagement Archivist, Black Metropolis Research Consortium <br>
-<i>Asking, Listening, and Providing Resources: Legacy Management for Black Chicagoland Communities</i><br>
+**Speakers**
+Tanya Calvin, Community Engagement Archivist, Black Metropolis Research Consortium
+*Asking, Listening, and Providing Resources: Legacy Management for Black Chicagoland Communities*
 
-Steven J. Baskauf, Data Science and Data Curation Specialist, Jean & Alexander Heard Libraries, Vanderbilt University<br>
-<i>Who's the artist and who gets to decide? Identity management in Wikidata, where "anyone can edit”</i><br>
+Steven J. Baskauf, Data Science and Data Curation Specialist, Jean & Alexander Heard Libraries, Vanderbilt University
+*Who's the artist and who gets to decide? Identity management in Wikidata, where "anyone can edit”*
 
-Bree Midavaine, Taxonomist, Philadelphia Museum of Art<br>
-<i>Identity: Conversation to Mindful Impact</i><br>
+Bree Midavaine, Taxonomist, Philadelphia Museum of Art
+*Identity: Conversation to Mindful Impact*
 
 
-To view the symposium, please visit this <a href="https://philamuseum-org.zoom.us/rec/share/9BiNg--Ydd2IbofMeiitgIdL2uwOWeT8epAKs3Hd-9pl1oq8zOLF85VoWqB4oenc.qVvsgXlDsKiFZsjg"><b>link</b></a> and use passcode: u0&0Undr.<br>
+To view the symposium, please visit this [link](https://philamuseum-org.zoom.us/rec/share/9BiNg--Ydd2IbofMeiitgIdL2uwOWeT8epAKs3Hd-9pl1oq8zOLF85VoWqB4oenc.qVvsgXlDsKiFZsjg) and use passcode: u0&0Undr.
 
-We gathered a list of resources and links from presentations and discussion during the symposium, which you can view <a href="https://artinformationcommons.github.io/uploads/Art%20in%20Context_%20Identity,%20Ethics,%20and%20Insight%20Resources%20Document.pdf"><b>here</b></a>.<br>
+
+We gathered a list of resources and links from presentations and discussion during the symposium, which you can view [here](https://artinformationcommons.github.io/uploads/Art%20in%20Context_%20Identity,%20Ethics,%20and%20Insight%20Resources%20Document.pdf).
+
+
 
 The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.
