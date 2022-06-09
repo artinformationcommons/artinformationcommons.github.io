@@ -20,17 +20,17 @@ Topics will range from ethics; how to manage identities in our fast-paced digita
 
 Program
 **Welcome & Introductions**
-Kirsten Regina, Arcadia Director of the Library and Archives<br>
-Juliet Vinegra, Project Manager, Art Information Commons<br>
+Kirsten Regina, Arcadia Director of the Library and Archives
+Juliet Vinegra, Project Manager, Art Information Commons
 
 **Theory + Q&A
 Moderator**
 Synatra Smith, CLIR/DLF Postdoctoral Fellow in Data Curation for African American Studies, Philadelphia Museum of Art/Temple University<br> 
 
-Gala Porras-Kim, Contemporary Interdisciplinary Artist<br>
+Gala Porras-Kim, Contemporary Interdisciplinary Artist
 *I want to prepare to learn something I don't know*
 
-Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art<br>
+Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art
 *Why do you ask?: Name Authority Control in Art Museums and Libraries*
 
 **Speakers**
