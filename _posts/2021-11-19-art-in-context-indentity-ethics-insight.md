@@ -27,13 +27,13 @@ Juliet Vinegra, Project Manager, Art Information Commons
 **Moderator**  
 Synatra Smith, CLIR/DLF Postdoctoral Fellow in Data Curation for African American Studies, Philadelphia Museum of Art/Temple University<br> 
 
+**Speakers**  
 Gala Porras-Kim, Contemporary Interdisciplinary Artist  
 *I want to prepare to learn something I don't know*  
 
 Sarah Osborne-Bender, Head of Library Technical Services, National Gallery of Art  
 *Why do you ask?: Name Authority Control in Art Museums and Libraries*
 
-**Speakers**  
 Zakiya Collier, Digital Archivist, Schomberg  
 *Ethical Expressions of Collective Memory: Re/presenting Black Life in Web Archiving and Linked Open Data*
 
