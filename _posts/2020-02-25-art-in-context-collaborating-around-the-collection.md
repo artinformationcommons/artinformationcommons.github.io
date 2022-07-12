@@ -32,9 +32,11 @@ Couldn't make it? Here are the slides from each presenter:<br>
 <li><b><a href="/uploads/bibliophilly_art_in_context.pdf">Bibiotheca Philadelphiensis: A Philadelphia-Area Collaboration</a></b> by Dot Porter</li><br><br>
 </ul>
 
-We will also be posting a recording of the event afterwards for your viewing.
 
 
 <br><br>
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.<br>
+<p style="text-align:center;"><img src="/assets/img/Mellon_Logomark_Lockup_Black.jpg"
+     width="350" 
+     height="auto" />
