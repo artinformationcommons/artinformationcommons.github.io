@@ -16,4 +16,7 @@ In this talk we discuss how the Library & Archives at the Philadelphia Museum of
 You can view our recorded talk **[here](https://drive.google.com/file/d/1vLOTLUQSgsk8niyFmERj-gHEjZV72juL/view?usp=sharing)**.
 
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.<br>
+<p style="text-align:center;"><img src="/assets/img/Mellon_Logomark_Lockup_Black.jpg"
+     width="350" 
+     height="auto" />
