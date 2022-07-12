@@ -57,4 +57,7 @@ We gathered a list of resources and links from presentations and discussion duri
 
 
 
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.<br>
+<p style="text-align:center;"><img src="/assets/img/Mellon_Logomark_Lockup_Black.jpg"
+     width="350" 
+     height="auto" />
