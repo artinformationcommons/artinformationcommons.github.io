@@ -21,7 +21,7 @@ Kirsten Regina, Arcadia Director of the Library and Archives
 Juliet Vinegra, Project Manager, Art Information Commons
 	
 
-**Panel One** 
+**Panel One**  
 1 hour
 	
 **Moderator**  
