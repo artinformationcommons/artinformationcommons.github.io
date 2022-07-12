@@ -16,4 +16,7 @@ David Newbury, Enterprise Software and Data Architect at the J. Paul Getty Trust
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/79XJfTAPGdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <br><br>
-The Art Information Commons at the Philadelphia Museum of Art has been made possible by <b>The Andrew W. Mellon Foundation</b>.
+The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.<br>
+<p style="text-align:center;"><img src="/assets/img/Mellon_Logomark_Lockup_Black.jpg"
+     width="350" 
+     height="auto" />
