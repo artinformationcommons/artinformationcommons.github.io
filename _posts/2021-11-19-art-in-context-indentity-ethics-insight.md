@@ -9,7 +9,6 @@ description: A half-day symposium on identity management
 **Friday, November 19**  
 **1:00–3:30 p.m.**  
 **Virtual**  
-
 **[Speaker Biographies](artinformationcommons.github.io/uploads/Nov%202021%20Symposium%20Speaker%20Bios.pdf)**  
 
 Libraries, archives and museums have long had systems in place to manage identities (e.g. Library of Congress and Getty authorities) to help organize and share resources. Great responsibility is attached to this work, especially because of the nuances surrounding assignments of identity. Identity is complex, fluid, and multilayered. It is public, yet deeply personal, therefore there is much to be considered.  
