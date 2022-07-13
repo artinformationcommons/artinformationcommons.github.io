@@ -7,14 +7,14 @@ description: A conversation with Bree Midavaine, the taxonomist working on the m
 
 ### Ask a Taxonomist...Between Two Ferns
 
-Tuesday, November 19<br>
-3:00–4:00 p.m.<br>
-Perelman Building<br>
-@LandAatPMA
+**Tuesday, November 19  
+3:00–4:00 p.m.  
+Perelman Building  
+@LandAatPMA**
 
-A riff on comedian Zach Galifinakis’ Funny or Die series Between Two Ferns and the social media hashtag #askacurator, we conducted an interview with Bree Midavaine (Taxonomist) who works with the museum’s Library and Archives on the AIC initiative. 
+A riff on comedian Zach Galifinakis’ Funny or Die series Between Two Ferns and the social media hashtag #askacurator, we conducted an interview with Bree Midavaine, Taxonomist who works with the museum’s Library and Archives on the AIC initiative. 
 
-Juliet Vinegra (AIC Project Manager) posed questions, sent by staff and external colleagues, asking Bree about what, exactly, a taxonomist does, her role in the Art Information Commons initiative, and general knowledge management. 
+Juliet Vinegra, Art Information Commons Project Manager posed questions, sent by staff and external colleagues, asking Bree about what, exactly, a taxonomist does, her role in the Art Information Commons initiative, and general knowledge management. 
 
 Couldn't make it? Check out some questions and posts Follow on Twitter @LandAatPMA with #AskATaxonomist. You can also review the presentation shared at the event <b><a href="/uploads/Ask a Taxonomist 11-19-19.pdf">here</a></b> and a recording of the program below.<br><br>
 
