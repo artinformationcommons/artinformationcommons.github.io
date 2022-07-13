@@ -66,9 +66,9 @@ Demian DinéYazhi', Sovereign Artist
 1 hour
 	
 
-In case you missed it, here is a [recording](https://philamuseum-org.zoom.us/rec/share/vwyXHeg_bac7vH6fCi251-deJYdmRVIEV_XuLZtUhom4PWHjp-YlD9czlFbiV9ac.RhMFRCBsUxdz-K9W?startTime=1652882413000) of the program.
+In case you missed it, here is a **[recording](https://philamuseum-org.zoom.us/rec/share/vwyXHeg_bac7vH6fCi251-deJYdmRVIEV_XuLZtUhom4PWHjp-YlD9czlFbiV9ac.RhMFRCBsUxdz-K9W?startTime=1652882413000)** of the program.
 	
-You may also review resources shared by moderators, speakers, and participants [here](https://artinformationcommons.github.io/uploads/May%202022%20Symposium%20Resources%20Document.pdf).	
+You may also review resources shared by moderators, speakers, and participants **[here](https://artinformationcommons.github.io/uploads/May%202022%20Symposium%20Resources%20Document.pdf)**.	
 
 The Art Information Commons at the Philadelphia Museum of Art has been made possible by the Mellon Foundation.<br>
 <p style="text-align:center;"><img src="/assets/img/Mellon_Logomark_Lockup_Black.jpg"
