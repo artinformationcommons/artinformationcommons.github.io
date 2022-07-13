@@ -50,9 +50,9 @@ Steven J. Baskauf, Data Science and Data Curation Specialist, Jean & Alexander H
 Bree Midavaine, Taxonomist, Philadelphia Museum of Art  
 *Identity: Conversation to Mindful Impact*
 
-To view the symposium, please visit this [link](https://philamuseum-org.zoom.us/rec/share/9BiNg--Ydd2IbofMeiitgIdL2uwOWeT8epAKs3Hd-9pl1oq8zOLF85VoWqB4oenc.qVvsgXlDsKiFZsjg) and use passcode: u0&0Undr.
+To view the symposium, please visit this **[link](https://philamuseum-org.zoom.us/rec/share/9BiNg--Ydd2IbofMeiitgIdL2uwOWeT8epAKs3Hd-9pl1oq8zOLF85VoWqB4oenc.qVvsgXlDsKiFZsjg)** and use passcode: u0&0Undr.
 
-We gathered a list of resources and links from presentations and discussion during the symposium, which you can view [here](https://artinformationcommons.github.io/uploads/Art%20in%20Context_%20Identity,%20Ethics,%20and%20Insight%20Resources%20Document.pdf).
+We gathered a list of resources and links from presentations and discussion during the symposium, which you can view **[here](https://artinformationcommons.github.io/uploads/Art%20in%20Context_%20Identity,%20Ethics,%20and%20Insight%20Resources%20Document.pdf)**.
 
 
 
