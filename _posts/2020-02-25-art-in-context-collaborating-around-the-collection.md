@@ -20,11 +20,6 @@ Our speakers for the afternoon included:
 <li><b>Christopher Nygren</b>, Assistant Professor & Director, Medieval and Renaissance Studies Program, University of Pittsburgh</li><br>
   <li><b>Dot Porter</b>, Curator of Digital Research Services, Penn Libraries</li></ul><br>
 
-
-
-
-
-
 Couldn't make it? Here are the slides from each presenter:<br>
 <ul>
 <li><b><a href="/uploads/PMA_ArtInContext_PeopleProcessTechnology_Carissa Dougherty.pdf">People + Process + Technology: Approaching Collaboration and Change from a Knowledge Management Perspective</a></b> by Carissa Dougherty</li><br>
