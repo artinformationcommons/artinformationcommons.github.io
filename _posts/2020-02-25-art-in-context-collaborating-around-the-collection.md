@@ -22,8 +22,8 @@ Our speakers for the afternoon included:
  *[Collaboration in Digital Art History, In Theory and Practice](/uploads/Nygren GLAM PMA 2020.pdf)*
 
 **Dot Porter**, Curator of Digital Research Services, Penn Libraries  
-*[Bibiotheca Philadelphiensis: A Philadelphia-Area Collaboration]*
-(/uploads/bibliophilly_art_in_context.pdf)
+*[Bibiotheca Philadelphiensis: A Philadelphia-Area Collaboration]
+(/uploads/bibliophilly_art_in_context.pdf)*
 
 
 
