@@ -7,9 +7,9 @@ description: David Newbury, Enterprise Software and Data Architect at the J. Pau
 
 ### Sharing Data Across Memory Institutions
 
-Tuesday, July 9
-3:30–5:00 p.m.
-Perelman Building
+**Tuesday, July 9  
+3:30–5:00 p.m.  
+Perelman Building**
  
 David Newbury, Enterprise Software and Data Architect at the J. Paul Getty Trust, discussed his work at the intersection of data, technology, and the fine arts to find common solutions to technical and scholarly problems. If you missed it, there is a recording of the full lecture below.<br><br>
 
