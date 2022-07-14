@@ -25,6 +25,8 @@ navigation:
     url: /resources
   - title: Toolkit
     url: /toolkit
+  - title: Prototype Documentation
+    url: https://art-information-commons.github.io/art-information-commons-documentation/
 
 social:
   github: --
