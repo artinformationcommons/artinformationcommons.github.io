@@ -17,9 +17,9 @@ navigation:
     url: /index
   - title: Who We Are
     url: /who-we-are
-  - title: Updates & Activities
+  - title: Activities
     url: /updates-activities
-  - title: Events & Conferences
+  - title: Events
     url: /events-conferences/
   - title: Resources
     url: /resources
