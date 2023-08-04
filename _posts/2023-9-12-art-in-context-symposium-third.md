@@ -10,7 +10,7 @@ description: The Art Information Commons is pleased to present our third and fin
 **Tuesday, September 12**  
 **10:00 a.m.–12:30 p.m. EST**  
 **Virtual**  
-**[Speaker Biographies](https://artinformationcommons.github.io/uploads/Speaker Bios Symposium 2023.pdf)**
+**[Speaker Biographies](https://artinformationcommons.github.io/uploads/Speaker_Biographies_Symposium_2023.pdf)**
 	
 The ethics and processes around how we address structural biases reflected in our art collection documentation and how our art objects are then presented is an ongoing conversation. We’ll share some practical and proactive solutions and then open the floor to your questions
 	
