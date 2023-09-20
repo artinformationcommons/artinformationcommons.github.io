@@ -24,26 +24,26 @@ Kirsten Regina, Arcadia Director of the Library and Archives
 	
 **Speakers**  
 
-Rosalie Hooper, Head of Interpretation, Philadelphia Museum of Art--Bias Redmediation for Interpretation & Data Team Member
-Tara Contractor, Assistant Curator of European Painting & Sculpture, Philadelphia Museum of Art--Bias Redmediation for Interpretation & Data Team Member
-*Bias Redmediation for Interpretation & Data Guide*
+Rosalie Hooper, Head of Interpretation, Philadelphia Museum of Art, Bias Redmediation for Interpretation & Data Team Member
+Tara Contractor, Assistant Curator of European Painting & Sculpture, Philadelphia Museum of Art, Bias Redmediation for Interpretation & Data Team Member
+*Bias Redmediation in Interpretation & Data*
 	
 Frances Lloyd-Baynes, Manager of Art, Princeton University  
-*AAMC Foundation: Best Practices Guide for Artist Demographic Data Coordination (contributing writer)*
+*Demographic Diversity & Bias Remediation Tools (AAMC Best Practices Guide for Artist Deomographic Data Coordination)*
 	
 Dawne Howard Lucas, Technical Services Archivist, University of North Carolina--The Reckoning Iniative Member
-*A Guide to Conscious Editing (contributing writer)*
+*A Guide to Conscious Editing at Wilson Special Collections Library*
 
 Zoë Hollingworth, Collections Systems Lead, Victoria & Albert Museum
 Tom Windross, Head of Content, Victoria & Albert Museum
-*Bias Remediation on the V&A website*
+*Digitally addressing problematic content in V&A Collections*
 
 Maria Blyzinsky, Heritage Consultant and Independent Curator, UK
-Tetyana Filevska, Independent Curator, Ukraine
-*Ukraine nationality and artist identity*
+Tetyana Filevska, Creative Director, Ukrainian Institute
+*A Gobal Approach to Decolonizing Ukrainian Cultural Heritage*
 
 Samantha Deutch, Digital Art History Lead, The Frick Collection and Frick Art Reference Library
-*Bias Remediation from a Researchers perspective*
+*A Researcher's Perspective*
 
 **Break**  
 15 minutes
