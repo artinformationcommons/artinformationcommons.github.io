@@ -45,8 +45,6 @@ Tetyana Filevska, Independent Curator, Ukraine
 Samantha Deutch, Digital Art History Lead, The Frick Collection and Frick Art Reference Library
 *Bias Remediation from a Researchers perspective*
 
-**[Speaker Biographies](https://docs.google.com/document/d/1ZwNX_Hl5o69YL_MyO4_dYRltctAzUs9nnk_HFUun0yg/edit?usp=sharing)**
-	
 **Break**  
 15 minutes
 	
@@ -59,9 +57,6 @@ Bree Midavaine, Taxonomist, Philadelphia Museum of Art
 **Audience Q & A**  
 30 min
 	
-
-**[Symposium Resources](https://docs.google.com/document/d/1B-VdaqMpzG6AzZnumXTVMTzWsdOE_3JJmaCDUNuZVQs/edit?usp=sharing)**
-
 
 
 The Art Information Commons is generously funded by the Mellon Foundation.<br>
