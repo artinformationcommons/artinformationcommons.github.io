@@ -23,7 +23,6 @@ Kirsten Regina, Arcadia Director of the Library and Archives
 1 hour
 	
 **Speakers**  
-**[Speaker Biographies](https://docs.google.com/document/d/1ZwNX_Hl5o69YL_MyO4_dYRltctAzUs9nnk_HFUun0yg/edit?usp=sharing)**
 
 Rosalie Hooper, Head of Interpretation, Philadelphia Museum of Art--Bias Redmediation for Interpretation & Data Team Member
 Tara Contractor, Assistant Curator of European Painting & Sculpture, Philadelphia Museum of Art--Bias Redmediation for Interpretation & Data Team Member
@@ -46,7 +45,7 @@ Tetyana Filevska, Independent Curator, Ukraine
 Samantha Deutch, Digital Art History Lead, The Frick Collection and Frick Art Reference Library
 *Bias Remediation from a Researchers perspective*
 
-Speaker Bios can be found **[here](https://docs.google.com/document/d/1ZwNX_Hl5o69YL_MyO4_dYRltctAzUs9nnk_HFUun0yg/edit?usp=sharing)**.
+**[Speaker Biographies](https://docs.google.com/document/d/1ZwNX_Hl5o69YL_MyO4_dYRltctAzUs9nnk_HFUun0yg/edit?usp=sharing)**
 	
 **Break**  
 15 minutes
@@ -61,9 +60,11 @@ Bree Midavaine, Taxonomist, Philadelphia Museum of Art
 30 min
 	
 
-Look for a recording of the program here after the event
-	
-You may also review resources shared by moderators, speakers, and participants which will be shared here prior to the event
+**[Symposium Recording](https://philamuseum-org.zoom.us/rec/play/z-N6SwPDsQfEA_91rC2kKkZYSUkgMSYp2oUtC23Atje__pNWjiUSSSm6QmKkLRleo7uusa2y5ONLz8lA.DL3ts4NAJHImqb8-)**
+
+**[Symposium Resources](https://docs.google.com/document/d/1B-VdaqMpzG6AzZnumXTVMTzWsdOE_3JJmaCDUNuZVQs/edit?usp=sharing)**
+
+
 
 The Art Information Commons is generously funded by the Mellon Foundation.<br>
 <p style="text-align:center;"><img src="/assets/img/Mellon_Logomark_Lockup_Black.jpg"
