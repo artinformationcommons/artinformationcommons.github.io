@@ -43,6 +43,8 @@ Tetyana Filevska, Independent Curator, Ukraine
 
 Samantha Deutch, Digital Art History Lead, The Frick Collection and Frick Art Reference Library
 *Bias Remediation from a Researchers perspective*
+
+Speaker Bios can be found **[here](https://docs.google.com/document/d/1ZwNX_Hl5o69YL_MyO4_dYRltctAzUs9nnk_HFUun0yg/edit?usp=sharing)**.
 	
 **Break**  
 15 minutes
