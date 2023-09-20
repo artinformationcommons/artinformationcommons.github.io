@@ -24,6 +24,7 @@ Kirsten Regina, Arcadia Director of the Library and Archives
 	
 **Speakers**  
 **[Speaker Biographies](https://docs.google.com/document/d/1ZwNX_Hl5o69YL_MyO4_dYRltctAzUs9nnk_HFUun0yg/edit?usp=sharing)**
+
 Rosalie Hooper, Head of Interpretation, Philadelphia Museum of Art--Bias Redmediation for Interpretation & Data Team Member
 Tara Contractor, Assistant Curator of European Painting & Sculpture, Philadelphia Museum of Art--Bias Redmediation for Interpretation & Data Team Member
 *Bias Redmediation for Interpretation & Data Guide*
