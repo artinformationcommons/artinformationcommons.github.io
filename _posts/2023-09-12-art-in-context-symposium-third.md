@@ -60,8 +60,6 @@ Bree Midavaine, Taxonomist, Philadelphia Museum of Art
 30 min
 	
 
-**[Symposium Recording](https://philamuseum-org.zoom.us/rec/play/z-N6SwPDsQfEA_91rC2kKkZYSUkgMSYp2oUtC23Atje__pNWjiUSSSm6QmKkLRleo7uusa2y5ONLz8lA.DL3ts4NAJHImqb8-)**
-
 **[Symposium Resources](https://docs.google.com/document/d/1B-VdaqMpzG6AzZnumXTVMTzWsdOE_3JJmaCDUNuZVQs/edit?usp=sharing)**
 
 
