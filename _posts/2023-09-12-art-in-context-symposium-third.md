@@ -57,7 +57,7 @@ Bree Midavaine, Taxonomist, Philadelphia Museum of Art
 **Audience Q & A**  
 30 min
 	
-
+In this **[Symposium Resources](https://docs.google.com/document/d/1B-VdaqMpzG6AzZnumXTVMTzWsdOE_3JJmaCDUNuZVQs/edit?usp=sharing)** document you will find links to the symposium recording, resources used during the sympoisum, and speaker biographies.
 
 The Art Information Commons is generously funded by the Mellon Foundation.<br>
 <p style="text-align:center;"><img src="/assets/img/Mellon_Logomark_Lockup_Black.jpg"
